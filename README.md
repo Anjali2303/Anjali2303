@@ -1,6 +1,6 @@
 👋  Hi, I’m Anjali Yadav, a machine learning Engineer, pursuing my Masters in Artificial intelligence and Data Science
 
-👀  I enjoy contributing to Open Source Projects and am really enthusiastic about learning new technologies. From 2018 through 2021 I learnt Python, C, C++. In 2022         till now, I learnt Applied Mathematics, Machine Learning Algorithms, Data Modeling, Statistics and Natural Language Processing.
+👀  I enjoy contributing to Open Source Projects and am really enthusiastic about learning new technologies. From 2018 through 2021 I learnt Python, C, C++. In 2022         till now, I learnt Applied Mathematics, Machine Learning Algorithms, Data Modeling, Statistics, Natural Language Processing Deep Learning and Big Data Analytics. I have worked on Numeric, Text, Image , Video and Speech data
 
 🌱  Outside of tech too, I love pushing myself to learn new skills ranging from Drumming, Hip Hop and Contemporary Dance and Sketching (aimimg for mastery only in dance      and sketching though).
 
